@@ -1,0 +1,1 @@
+This is an Odin Project exercise for learning HTML (and later, CSS).
